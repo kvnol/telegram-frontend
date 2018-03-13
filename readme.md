@@ -48,6 +48,8 @@
 #### Rio de Janeiro
 #### São Paulo
 
+- [Santo André](https://t.me/safrontend)
+
 ### Sul
 
 #### Paraná
