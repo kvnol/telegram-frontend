@@ -49,6 +49,7 @@
 #### São Paulo
 
 - [Santo André](https://t.me/safrontend)
+- [São Caetano do Sul](https://t.me/scsfrontend)
 
 ### Sul
 
